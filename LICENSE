@@ -1,0 +1,39 @@
+学生量化管理系统（Student Conduct-Points Management System）
+版权所有 © 2026 Yeraldo Smith. 保留所有权利 / All Rights Reserved.
+
+作者 / Author: Yeraldo Smith
+GitHub: https://github.com/YeraldoSmith
+网站 / Website: https://yeraldo.com
+
+本软件及其源代码为 Yeraldo Smith 的专有财产，受著作权法及相关国际条约保护。
+This software and its source code are the proprietary property of Yeraldo Smith
+and are protected by copyright law and international treaties.
+
+未经著作权人书面许可，任何单位或个人不得：
+Without the prior written permission of the copyright holder, no party may:
+
+  1. 复制、分发、出租、出借或以其他方式提供本软件的源代码；
+     copy, distribute, rent, lend or otherwise make the source code available;
+  2. 修改、翻译、改编本软件，或据此创作衍生作品；
+     modify, translate, adapt or create derivative works;
+  3. 反编译、反汇编、逆向工程，或试图获取本软件的源代码；
+     decompile, disassemble, reverse engineer, or attempt to derive the source;
+  4. 移除或更改本软件中的任何版权、商标或其他权利声明；
+     remove or alter any copyright, trademark or other proprietary notices;
+  5. 将本软件用于商业销售或再授权。
+     sell or sub-license the software.
+
+授权学校仅可在其校内，为本校德育量化管理之目的部署和使用本软件的编译发行版，
+不得将其提供给第三方。
+A licensed school may deploy and use the compiled distribution within its own
+campus for the purpose of student conduct-points management only, and may not
+provide it to any third party.
+
+本软件按“现状”提供，不含任何明示或默示的担保。在法律允许的最大范围内，
+作者不对因使用本软件而产生的任何损失承担责任。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM
+EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING
+FROM THE USE OF THE SOFTWARE.
+
+如需授权或商务合作，请通过 https://yeraldo.com 联系作者。
+For licensing or business inquiries, contact the author via https://yeraldo.com.
